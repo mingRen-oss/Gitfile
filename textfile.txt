@@ -1,2 +1,3 @@
 this is a text file.
-text one two.
+text one.
+add a new line.
